@@ -12,4 +12,4 @@ Steps:
 Key             Value
 Authorization   Bearer (token generated in step 3.a.)
 
-![Alt text](screenshots/1.jpg?raw=true "Optional Title")
+![Alt text](../../screenshots/1.jpg?raw=true "Optional Title")

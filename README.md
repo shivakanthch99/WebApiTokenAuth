@@ -18,11 +18,12 @@ Steps:
     c. The WebApi requests can be made using the token generated in the above step. This can be tested through Postman by adding Authorization header in the get request:
 
 Key             Value
-Authorization   Bearer (token generated in step 3.a.)
+Authorization   Bearer (token generated in step 3.a.)  
+    
 
 ![Alt text](screenshots/3.png "WebApi get request")
 
 
-    d. Withouth the Bearr token, we get Authorization denied
-    
-    ![Alt text](screenshots/4.png "Authorization denied")
+4. Withouth the Bearr token, we get Authorization denied
+
+![Alt text](screenshots/4.png "Authorization denied")

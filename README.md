@@ -24,6 +24,6 @@ Authorization   Bearer (token generated in step 3.a.)
 ![Alt text](screenshots/3.png "WebApi get request")
 
 
-4. Withouth the Bearr token, we get Authorization denied
+4. Withouth the Bearer token, we get Authorization denied
 
 ![Alt text](screenshots/4.png "Authorization denied")
